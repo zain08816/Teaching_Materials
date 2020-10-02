@@ -1,6 +1,5 @@
 '''
-This is a basic write up of some of the python stuff we covered
-at the RUAutomonous Imaging meeting on Monday, Septmber 30th, 2019
+This is a basic write up of some of the python stuff
 
 NOTE: the useage of 3 ' to form block comments in python, this can also be done with " 
 as long as they are the same for opening and closing the block comment
